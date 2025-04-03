@@ -268,6 +268,19 @@
 ┃• {prefix}leave
 ┃• {prefix}send
 ╚═━━━❏
+╔═❏ *IMAGE EDIT*
+┃• {prefix}todisney
+┃• {prefix}topixar
+┃• {prefix}tocartoon
+┃• {prefix}tocyberpunk
+┃• {prefix}topixelart
+┃• {prefix}tocomicbook
+┃• {prefix}tohijab
+┃• {prefix}tohitam
+┃• {prefix}hitamkan
+┃• {prefix}toputih
+┃• {prefix}toghibili
+╚═━━━❏
 ╔═❏ *SEARCH*
 ┃• {prefix}artinama
 ┃• {prefix}alkitab
